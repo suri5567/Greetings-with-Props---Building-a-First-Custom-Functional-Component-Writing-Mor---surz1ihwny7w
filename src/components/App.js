@@ -3,9 +3,11 @@ import '../styles/App.css';
 import Welcome from './Welcome';
 
 const App = () => {
-  return (
+   render(){
+       return (
     <Welcome name={name} />
   )
+   }
 }
 
 
