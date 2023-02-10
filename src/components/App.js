@@ -2,10 +2,11 @@ import React from "react";
 import '../styles/App.css';
 import Welcome from './Welcome';
 
-const App = () => {
+const App = () => 
+{
   
        return (
-         <div className="App">
+         <div>
     <Welcome name={name} />
   )
   </div>
