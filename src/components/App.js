@@ -5,11 +5,9 @@ import Welcome from './Welcome';
 const App = () => 
 {
   
-    
-      
-    <Welcome name="Harshita"></Welcome>
-
- 
+   return(
+          <Welcome name={"Harshita"}></Welcome>
+   )
 }
 
 
