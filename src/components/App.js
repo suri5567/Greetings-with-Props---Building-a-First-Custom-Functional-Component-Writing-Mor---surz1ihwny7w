@@ -6,10 +6,10 @@ const App = () =>
 {
   
        return (
-         <div>
-    <Welcome name={name} />
+      
+    <Welcome name={"surinder"} />
   )
-  </div>
+ 
 }
 
 
