@@ -5,10 +5,10 @@ import Welcome from './Welcome';
 const App = () => 
 {
   
-       return (
+    
       
-    <Welcome name={"Harshita"}></Welcome>
-  )
+    <Welcome name="Harshita"></Welcome>
+
  
 }
 
