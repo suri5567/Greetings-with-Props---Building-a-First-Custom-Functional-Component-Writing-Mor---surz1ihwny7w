@@ -7,7 +7,7 @@ const App = () =>
   
        return (
       
-    <Welcome name={surinder} />
+    <Welcome name={"Harshita"}></Welcome>
   )
  
 }
